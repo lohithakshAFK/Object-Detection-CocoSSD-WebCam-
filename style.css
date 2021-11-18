@@ -1,0 +1,34 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #object_count
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+
+.heading{
+    padding:20px;
+    width:80%;
+    background-color:black;
+    margin-top:10px;
+    border-radius:75px;
+    font-size:30px !important;
+    color:white;
+}
+
+canvas{
+    border-radius:20px;
+    box-shadow: 5px 5px 5px black;
+    margin-top:80px;
+}
